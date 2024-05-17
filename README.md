@@ -8,7 +8,7 @@
 <h6 align="center">outline easy installer <h6>
 </p>
 
- نصب
+ ## نصب
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/ipmartnetwork/outline-installer/main/installer.sh)
